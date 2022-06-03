@@ -13,7 +13,7 @@
 }
 
 .imagem {
-  background-image: url('./imagem.jpg');
+  background-image: url('../images/imagem.jpg');
   background-size: cover;
   background-clip: content-box;
   background-position: center;
